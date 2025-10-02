@@ -23,9 +23,9 @@ O trabalho inclui:
 ## 🛠️ Tecnologias & Ferramentas
 
 - Python  
-- Bibliotecas como: `pandas`, `numpy`, `matplotlib`, `seaborn`, `folium` ou `geopandas` (se aplicável)  
+- Bibliotecas como: `pandas`, `numpy`, `matplotlib`, `seaborn`, `folium` ou `geopandas 
 - Jupyter Notebook  
-- Ferramentas de visualização para mapas (se houver dados geográficos)
+- Ferramentas de visualização para mapas
 
 ---
 
