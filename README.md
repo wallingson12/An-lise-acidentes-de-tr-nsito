@@ -1,33 +1,43 @@
-<h1 align="center">Análise de Acidentes de Trânsito 🚗</h1>
+<h1 align="center">🚗 Análise de Acidentes de Trânsito</h1>
 
 <p align="center">
-  Projeto de Análise Exploratória e Insights sobre acidentes de trânsito no Brasil
+Projeto de exploração e visualização de dados de acidentes de trânsito, com foco em padrões temporais, espaciais e preditivos.
 </p>
 
 ---
 
-## 🧩 Sobre o Projeto
+## 📊 Sobre o Projeto
 
-Este repositório contém um notebook com uma **exploração de dados**, visualizações e insights sobre **acidentes de trânsito federais no Brasil**. O objetivo é identificar padrões, fatores de risco, tendências espaciais e temporais, e sugerir possíveis intervenções.
+Este projeto tem como objetivo **analisar acidentes de trânsito** utilizando dados públicos.  
+A análise envolve desde a exploração inicial até a criação de mapas interativos e modelos preditivos.
 
-O trabalho inclui:
-- Limpeza e preparação dos dados (tratamento de valores faltantes, padronização, filtros)
-- Análise exploratória com estatísticas descritivas
-- Visualizações para identificar tendências ao longo do tempo (mês, dia da semana, horas)
-- Análise geográfica / mapas (se disponível dados de localização)
-- Correlações entre variáveis (ex: tipo de acidente, condições climáticas, rodovia)
-- Possíveis conclusões e recomendações para prevenção
+O notebook principal é:  
+📌 [Análise de acidentes.ipynb](Análise%20de%20acidentes.ipynb)
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🧩 Etapas da Análise
 
-- Python  
-- Bibliotecas como: `pandas`, `numpy`, `matplotlib`, `seaborn`, `folium` ou `geopandas 
-- Jupyter Notebook  
-- Ferramentas de visualização para mapas
+- 🌍 **Mapa de calor**: distribuição espacial dos acidentes  
+- 📌 **Cluster por região**: agrupamento de ocorrências para identificar pontos críticos  
+- 📈 **Número de acidentes por ano**: evolução temporal  
+- 🚦 **Tipos de acidentes**: categorização dos principais tipos  
+- 🚗 **Tipos de veículos envolvidos**: identificação dos veículos mais frequentes nos acidentes  
+- 📅 **Dia da semana**: variação dos acidentes ao longo da semana  
+- 🩺 **Acidentes com feridos**: análise da gravidade em termos de vítimas  
+- ⚠️ **Níveis de gravidade**: classificação e frequência  
+- ⏰ **Horário dos acidentes**: padrões por período do dia  
+- 🛣️ **Ruas mais críticas**: locais com maior incidência  
+- 🔮 **Previsão de severidade**: tentativa de modelagem preditiva da gravidade do acidente  
 
 ---
 
-## 📂 Estrutura do Repositório
+## 🛠️ Tecnologias Utilizadas
 
+- **Python**
+- **Pandas** → manipulação e tratamento de dados  
+- **Folium** → visualizações geográficas (HeatMap, MarkerCluster)  
+- **Matplotlib / Seaborn** → gráficos e estatísticas visuais  
+- **Scikit-learn** → modelagem preditiva (previsão de severidade)  
+
+---
