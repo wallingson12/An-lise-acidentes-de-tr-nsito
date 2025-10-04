@@ -10,7 +10,7 @@ Este projeto realiza uma análise exploratória, estatística e preditiva sobre 
 - **Análises Descritivas**: Evolução temporal dos acidentes, tipos de acidentes e veículos envolvidos.
 - **Análises Espaciais**: Mapas de calor e clusters de acidentes por região da cidade.
 - **Estatística Inferencial**: Aplicação do teste Qui-Quadrado para avaliar a associação entre ruas e horários.
-- **Análises Preditivas**: Desenvolvimento de um modelo para prever a severidade (UPS) dos acidentes.
+- **Análises Preditivas**: Desenvolvimento de um modelo para prever se haverá feridos nos acidentes.
 - **Conclusão e Recomendações**: Síntese dos principais achados e sugestões de ações para reduzir acidentes.
 
 ---
