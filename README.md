@@ -80,7 +80,3 @@ Compreender esses padrões é essencial para reduzir acidentes, salvar vidas e t
 👨‍💻 Desenvolvido em Python para fins acadêmicos e de ciência de dados.
 
 ---
-
-👉 Esse README já está pronto para o GitHub.  
-Quer que eu também monte um **requirements.txt** com as libs que você usou, para acompanhar o README?
-
